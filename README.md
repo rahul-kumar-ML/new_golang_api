@@ -1,4 +1,4 @@
-## Client Side (NextJS)
+## SERVER: (GO)  Client Side: (NextJS)
 ![image](https://github.com/rahul-kumar-ML/new_golang_api/assets/135819739/e6fffa72-70e2-423b-b16c-6aaadcfda662)
 
 - Here the POST DATA button is for POST request and it will post the data to the server.
